@@ -1,6 +1,6 @@
 [submodule "lwr_comms_client"]
 	path = lwr_comms_client
-	url = https://github.com/nikunjparmar828/lwr_comms_client.git
+	url = https://github.com/Living-With-Robots-Lab/lwr_comms_client.git
 [submodule "LWR-Comms-Server"]
 	path = LWR-Comms-Server
-	url = https://github.com/nikunjparmar828/LWR-Comms-Server.git
+	url = https://github.com/Living-With-Robots-Lab/LWR-Comms-Server.git
